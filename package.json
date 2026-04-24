@@ -1,0 +1,27 @@
+{
+  "name": "pi-catppuccin",
+  "version": "0.1.0",
+  "description": "🧁 Soothing pastel theme for pi",
+  "keywords": [
+    "pi-package",
+    "catppuccin",
+    "theme",
+    "pi"
+  ],
+  "author": "XYenon <i@xyenon.bid>",
+  "license": "MIT",
+  "type": "module",
+  "pi": {
+    "themes": [
+      "./themes"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XYenon/catppuccin-pi-coding-agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XYenon/catppuccin-pi-coding-agent/issues"
+  },
+  "homepage": "https://github.com/XYenon/catppuccin-pi-coding-agent#readme"
+}
